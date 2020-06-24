@@ -1,0 +1,6 @@
+framework module Pods_BarTrack_tableView {
+  umbrella header "Pods-BarTrack-tableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
