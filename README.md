@@ -7,4 +7,4 @@ This is a beta version of this app and this app was never added to the app store
 
 This app was created using Xcode.
 
-To run, click on 
+To run, click on Clone, then run in Xcode, and the code will run right on Xcode!
