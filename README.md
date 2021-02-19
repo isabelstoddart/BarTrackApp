@@ -8,7 +8,7 @@ The app allows users to rate bars in Austin on multiple criteria including Popul
 
 The storyboarding and coding was done completely in Xcode. Below is a screenshot of the main storyboard.
 
-![]()
+![](BarTrackWireFrame.png)
 
 
 
