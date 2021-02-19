@@ -28,7 +28,7 @@ The user can then enter the app where they will see a screen allowing them to sc
 
 ![](BarTrackMenuPage.png)
 
-They can then pick a bar and see a description and ratings for that bar. There is an option for the user to rate the bar themselves and an map showing where the bar is located.
+They can then pick a bar and see a description and ratings for that bar. There is an option for the user to rate the bar themselves and a map showing where the bar is located.
 
 ![](BarTrackBarRatingPage.png)
 
