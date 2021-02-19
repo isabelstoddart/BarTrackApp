@@ -38,11 +38,11 @@ They can then pick a bar and see a description and ratings for that bar. There i
 
 From the rating menu, the user can rate the bar on Popularity, Crowdedness, Strictness, Current Wait Time, and Average Wait Time.
 
-The user can submit a rating of crowdedness and popularity on a scale of 1 to 10.
+The user can submit a rating of crowdedness, popularity, and strictness on a scale of 1 to 10.
 
 ![](BarTrackCrowdedness.png)
 
-The user can submit any wait time in minutes.
+The user can submit current wait time and average wait time in minutes.
 
 ![](BarTrackWaitTime.png)
 
