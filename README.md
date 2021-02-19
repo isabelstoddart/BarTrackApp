@@ -42,7 +42,7 @@ The user can submit a rating of crowdedness, popularity, and strictness on a sca
 
 ![](BarTrackCrowdedness.png)
 
-The user can submit current wait time and average wait time in minutes.
+The user can submit the current wait time in minutes.
 
 ![](BarTrackWaitTime.png)
 
